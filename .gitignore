@@ -1,0 +1,18 @@
+# Environment configuration
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+vendor/
