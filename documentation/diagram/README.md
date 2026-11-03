@@ -1,1 +1,1 @@
-documentation folder for DairyFlow website development.
+documentation/designs folder for DairyFlow website development.
